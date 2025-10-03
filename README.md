@@ -1,5 +1,5 @@
 #### Hi there 👋, my name is Chuangye(Simon) Wang
-- 🔭 I’m currently working on refactoring codebase, building machine learning workflows, and restructure the format of thermodynamic databases.
+- 🔭 I’m currently working on refactoring codebase, building machine learning workflows, and restructuring the format of thermodynamic databases.
 - 🌱 I’m currently learning how to build [agents](https://github.com/microsoft/ai-agents-for-beginners) and how to use [claude code](https://www.claude.com/product/claude-code) efficiently.
 - 🤔 I’m planning to create an open-source package to implement indicators for technical analysis.
 
