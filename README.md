@@ -1,7 +1,9 @@
 #### Hi there 👋, my name is Chuangye(Simon) Wang
 - 🔭 I’m currently working on refactoring codebase, building machine learning workflows, and restructuring the format of thermodynamic databases.
-- 🌱 I’m currently learning how to build [agents](https://github.com/microsoft/ai-agents-for-beginners) and how to use [claude code](https://www.claude.com/product/claude-code) efficiently.
+- 🌱 I’m currently learning how to build [agents](https://www.kaggle.com/learn-guide/5-day-agents) and how to use [agent skills](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview).
 - 🤔 I’m planning to create an open-source package to implement indicators for technical analysis.
+- ⚡Vibe coding is unstoppable, having a big impact on software engineer career.
+- 2026 go go go.
 
 <!--
 - 🔭 I’m currently working on ...
